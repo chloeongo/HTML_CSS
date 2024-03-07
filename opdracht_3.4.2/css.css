@@ -1,0 +1,21 @@
+p:nth-child(1){
+color: aqua;
+}
+p:nth-child(2){
+color: blueviolet;
+}
+p:nth-child(3){
+color: brown;
+}
+p:nth-child(4){
+color: cadetblue;
+}
+p:nth-child(5){
+color: chartreuse;
+}
+a{
+    color: red;
+}
+a:hover{
+    color: gold;
+}
