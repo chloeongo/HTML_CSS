@@ -1,0 +1,50 @@
+body{
+background-image: url(bgimage/gato.png);
+background-size: cover;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    border: 3px solid white;
+    border-radius: 50px;
+    padding: 10px;
+    width: auto;
+    height: min-content;
+}
+.header{
+    background-color: blue;
+}
+.header:hover{
+    background-color: pink;
+}
+
+h3{
+    text-align: center;
+    border: 3px dotted white;
+    width: 300px;
+    height: min-content;
+    position: absolute;
+    left: 250px;
+}
+.waarom{
+    background-color: orange;
+}
+.waarom:hover{
+    background-color: blueviolet;
+}
+
+ul{
+    width: 300px;
+    height: min-content;
+    border: inset;
+    position: absolute;
+    right: 150px;
+    top: 200px;
+}
+.list{
+    background-color: beige;
+}
+.list:hover{
+    background-color: chartreuse;
+}
